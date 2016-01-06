@@ -1,0 +1,21 @@
+.ram
+{
+    margin:0 auto;
+    width:500px;
+    height:200px;
+}
+
+body{
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+}
+.a
+{
+    text-align: center;
+    font-size:1.2em;
+}
+label
+{
+    color:red;
+} 
+

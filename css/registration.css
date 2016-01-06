@@ -1,0 +1,34 @@
+label
+{
+    color:red;
+} 
+
+.ram
+{
+    margin:0 auto;
+    width:500px;
+    height:200px;
+}
+.a
+{
+    text-align: center;
+    font-size:1.2em;
+}
+body
+{
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+}
+
+.sel{
+    width: 50px;
+}
+.sub
+{
+    margin-left:180px;
+}
+.alignwidth
+{
+    width:250px;
+}
+

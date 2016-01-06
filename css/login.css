@@ -1,0 +1,46 @@
+.capt
+{
+    border:1px solid #d6e9c6;
+    background-color: #d6e9c6;
+    color: black;
+    text-align: center;
+    font-size: 3.2em;
+    font-family: 'Brush Script MT', cursive;
+    height:30px;
+    margin-top:0px;
+    height:45px;
+    width:245px;
+    border-radius:3px;
+}
+.capt p
+{
+    margin-top:-12px;
+}
+label
+{
+    color:red;
+}
+
+.a
+{
+    text-align: center;
+    font-size:1.2em;
+}
+body
+{
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+
+}
+.ram
+{
+    margin:0 auto;
+    width:500px;
+    height:200px;
+
+}
+.second
+{
+    padding-left:2em;
+}
+

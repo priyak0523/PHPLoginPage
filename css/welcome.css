@@ -1,0 +1,24 @@
+/*welcome css*/
+
+body{
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+    opacity: 0.8;
+
+}
+
+.out{
+    text-align: right;
+    margin-top: -50px;
+
+    margin:0 auto;
+    width:70px;
+    height:200px;
+}
+h1{
+    text-align: center;
+}
+img{
+    opacity: 0.4;
+}
+
